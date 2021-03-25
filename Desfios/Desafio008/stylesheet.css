@@ -1,0 +1,21 @@
+#pagina-cinza{
+    background-color: rgba(128, 128, 128, 0.329);    
+}
+#pagina-amarela{
+    background-color: rgba(255, 255, 0, 0.178);
+}
+#t-amarelo{
+    color: rgba(255, 187, 0, 0.808);
+}
+#p-amarelo{
+    color: rgba(255, 187, 0, 0.808);
+}
+#pagina-verde{
+    background-color: rgba(0, 128, 0, 0.205);
+}
+#t-verde{
+    color: rgb(62, 128, 0);
+}
+#p-verde{
+    color: rgb(62, 128, 0);
+}
